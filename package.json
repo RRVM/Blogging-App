@@ -1,0 +1,29 @@
+{
+  "name": "blog-assignment",
+  "version": "1.0.0",
+  "description": "CashPositive internship assignment(Backend dev).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GautamGadipudi/blog-assignment.git"
+  },
+  "author": "Gautam Gadipudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GautamGadipudi/blog-assignment/issues"
+  },
+  "homepage": "https://github.com/GautamGadipudi/blog-assignment#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "log4js": "^2.3.12",
+    "logger": "0.0.1",
+    "mongodb": "^2.2.33",
+    "url-parse": "^1.2.0",
+    "uuid": "^3.1.0"
+  }
+}
